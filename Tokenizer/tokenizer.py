@@ -1,6 +1,12 @@
-import randint
-############## STARTER CODE ####################################################
+# Laryssa Revelli
+# A01979841
+# Assignment 3 Part 1
+
+import Random
+
+########## BNF Grammar ##########
 Operators = ['+', '-', '*', '/']
+
 def generateRandomExpression(maxDepth = 10):
     # generates a string that is a legal sentence in the grammar of our simple lisp language
     if random() < 0.1 or maxDepth < 0:
@@ -21,6 +27,10 @@ def atom(token):
     if token.isdigit():
         return int(token)
     return token
+
+def prettyPrint(chars):
+
+    pass
 
 if __name__ == '__main__':
 ##### Note: Tokenizer cannot detect mismatched parenthesis, or invalid expressions #####
