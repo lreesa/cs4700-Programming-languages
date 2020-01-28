@@ -44,35 +44,37 @@ def atom(token):
 ########## 3) Pretty Printer (Not functioning properly still) ##########
 def prettyPrint(expression, depth):
     # takes a tokenized string expression and prints it out based on depth
-    if expression:
-        if isinstance(expression, int):
-            print("%s %d" % (' ' * depth, expression))
-            return
-        if expression[0] == '(':
-            print("%s %s" % (' ' * depth, expression[0]))
-            iterate(expression, depth)
-        #if expression[0] in Operators:
+    token = expression.pop(0)
+    if isinstance(token, int):
+        print("%s%d" % (' ' * depth, token))
+    else:
+        operator = expression.pop(0)
+        print("%s(%s" % (' ' * depth, operator))
+        prettyPrint(expression, depth+1)
+        prettyPrint(expression, depth+1)
+        expression.pop(0)
+        print("%s)" % (' ' * depth,))
 
-# helper function to walk through
-def iterate(chars, depth):
-    token = chars.pop(0)
-    if token in Operators:
-        print(token)
-        prettyPrint(chars, depth+1)
-    if token == ')':
-        print(token)
-        iterate(chars, depth)
-    prettyPrint(chars, depth)
-    return
+### prettyPrint a list of tokens
+def prettyPrint(tokenList, depth = 0):
+    token = tokenList.pop(0)
+    # atom, just print at depth and return
+    if isinstance(token, int):
+        print("%s%d" % (' ' * depth, token))
+    else:
+        # compound expression
+        operator = tokenList.pop(0)
+        print("%s(%s" % (' ' * depth, operator))
+        prettyPrint(tokenList, depth+1)
+        prettyPrint(tokenList, depth+1)
+        tokenList.pop(0) # remove )
+        print("%s)" % (' ' * depth,))
     
 ########## 4) Balance Parenthesis checker ##########
 def checkParenthesis(chars, depth):
     # Base case: empty list
     if not chars:
-        if depth == 0:
-            return True
-        else:
-            return False
+        return depth == 0
 
     elif chars[0] == '(':
         depth += 1 
