@@ -1,0 +1,1154 @@
+Index: 0
+Parse error: Missing close parenthesis
+Index: 1
+Parse error: Unbalanced parenthesis
+Index: 2
+Parse error: Unbalanced parenthesis
+Index: 3
+Parse error: Unbalanced parenthesis
+Index: 4
+Parse error: Unbalanced parenthesis
+Index: 5
+Parse error: Missing close parenthesis
+Index: 6
+Parse error: Unbalanced parenthesis
+Index: 7
+Parse error: Missing close parenthesis
+Index: 8
+Parse error: Unbalanced parenthesis
+Index: 9
+Parse error: Unbalanced parenthesis
+Index: 10
+Parse error: Unbalanced parenthesis
+Index: 11
+Parse error: Unbalanced parenthesis
+Index: 12
+Parse error: Unbalanced parenthesis
+Index: 13
+Parse error: Unbalanced parenthesis
+Index: 14
+Parse error: Unbalanced parenthesis
+Index: 15
+Parse error: Unbalanced parenthesis
+Index: 16
+Parse error: Unbalanced parenthesis
+Index: 17
+Parse error: Unbalanced parenthesis
+Index: 18
+Parse error: Unbalanced parenthesis
+Index: 19
+Parse error: Unbalanced parenthesis
+Index: 20
+Parse error: Unbalanced parenthesis
+Index: 21
+Parse error: Unbalanced parenthesis
+Index: 22
+Parse error: Unbalanced parenthesis
+Index: 23
+Parse error: Unbalanced parenthesis
+Index: 24
+Parse error: Unbalanced parenthesis
+Index: 25
+Parse error: Unbalanced parenthesis
+Index: 26
+Parse error: Unknown token found 'y'
+Index: 27
+Parse error: Unbalanced parenthesis
+Index: 28
+Parse error: Unbalanced parenthesis
+Index: 29
+Parse error: Missing close parenthesis
+Index: 30
+Parse error: Unknown token found '1.2344'
+Index: 31
+Parse error: Unbalanced parenthesis
+Index: 32
+Parse error: Unbalanced parenthesis
+Index: 33
+Parse error: Unbalanced parenthesis
+Index: 34
+Parse error: Unbalanced parenthesis
+Index: 35
+Parse error: Unbalanced parenthesis
+Index: 36
+Parse error: Unbalanced parenthesis
+Index: 37
+Parse error: Unbalanced parenthesis
+Index: 38
+Parse error: Unbalanced parenthesis
+Index: 39
+Parse error: Unknown token found 'x'
+Index: 40
+Parse error: Unbalanced parenthesis
+Index: 41
+Parse error: Unbalanced parenthesis
+Index: 42
+Parse error: Missing close parenthesis
+Index: 43
+Parse error: Unbalanced parenthesis
+Index: 44
+Parse error: Unbalanced parenthesis
+Index: 45
+Parse error: Unbalanced parenthesis
+Index: 46
+Parse error: Unbalanced parenthesis
+Index: 47
+Parse error: Unbalanced parenthesis
+Index: 48
+Parse error: Unbalanced parenthesis
+Index: 49
+Parse error: Unbalanced parenthesis
+Index: 50
+Parse error: Unbalanced parenthesis
+Index: 51
+Parse error: Unbalanced parenthesis
+Index: 52
+Parse error: Unbalanced parenthesis
+Index: 53
+Parse error: Unbalanced parenthesis
+Index: 54
+Parse error: Unbalanced parenthesis
+Index: 55
+Parse error: Unbalanced parenthesis
+Index: 56
+Parse error: Unbalanced parenthesis
+Index: 57
+Parse error: Missing close parenthesis
+Index: 58
+Parse error: Unbalanced parenthesis
+Index: 59
+Parse error: Unbalanced parenthesis
+Index: 60
+Parse error: Unbalanced parenthesis
+Index: 61
+Parse error: Unbalanced parenthesis
+Index: 62
+Parse error: Unbalanced parenthesis
+Index: 63
+Parse error: Unknown token found 'x'
+Index: 64
+Parse error: Unbalanced parenthesis
+Index: 65
+Parse error: Unbalanced parenthesis
+Index: 66
+Parse error: Unbalanced parenthesis
+Index: 67
+Parse error: Unbalanced parenthesis
+Index: 68
+Parse error: Unbalanced parenthesis
+Index: 69
+Parse error: Missing close parenthesis
+Index: 70
+Parse error: Unbalanced parenthesis
+Index: 71
+Parse error: Unbalanced parenthesis
+Index: 72
+Parse error: Unbalanced parenthesis
+Index: 73
+Parse error: Unbalanced parenthesis
+Index: 74
+Parse error: Unbalanced parenthesis
+Index: 75
+Parse error: Unbalanced parenthesis
+Index: 76
+Parse error: Unbalanced parenthesis
+Index: 77
+Parse error: Missing open parenthesis
+Index: 78
+Parse error: Unbalanced parenthesis
+Index: 79
+Parse error: Unbalanced parenthesis
+Index: 80
+Parse error: Unbalanced parenthesis
+Index: 81
+Parse error: Missing close parenthesis
+Index: 82
+Parse error: Unbalanced parenthesis
+Index: 83
+Parse error: Unbalanced parenthesis
+Index: 84
+Parse error: Unbalanced parenthesis
+Index: 85
+Parse error: Unbalanced parenthesis
+Index: 86
+Parse error: Unbalanced parenthesis
+Index: 87
+Parse error: Unbalanced parenthesis
+Index: 88
+Parse error: Unbalanced parenthesis
+Index: 89
+Parse error: Unbalanced parenthesis
+Index: 90
+Parse error: Unbalanced parenthesis
+Index: 91
+Parse error: Unbalanced parenthesis
+Index: 92
+Parse error: Unbalanced parenthesis
+Index: 93
+Parse error: Unbalanced parenthesis
+Index: 94
+Parse error: Unbalanced parenthesis
+Index: 95
+Parse error: Unbalanced parenthesis
+Index: 96
+Parse error: Unbalanced parenthesis
+Index: 97
+Parse error: Unbalanced parenthesis
+Index: 98
+Parse error: Missing open parenthesis
+Index: 99
+Parse error: Unbalanced parenthesis
+Index: 100
+Parse error: Unbalanced parenthesis
+Index: 101
+Parse error: Unbalanced parenthesis
+Index: 102
+Parse error: Unbalanced parenthesis
+Index: 103
+Parse error: Unbalanced parenthesis
+Index: 104
+Parse error: Unbalanced parenthesis
+Index: 105
+Parse error: Unbalanced parenthesis
+Index: 106
+Parse error: Unbalanced parenthesis
+Index: 107
+Parse error: Unbalanced parenthesis
+Index: 108
+Parse error: Unbalanced parenthesis
+Index: 109
+Parse error: Missing open parenthesis
+Index: 110
+Parse error: Missing close parenthesis
+Index: 111
+Parse error: Unbalanced parenthesis
+Index: 112
+Parse error: Unbalanced parenthesis
+Index: 113
+Parse error: Unbalanced parenthesis
+Index: 114
+Parse error: Unbalanced parenthesis
+Index: 115
+Parse error: Unbalanced parenthesis
+Index: 116
+Parse error: Unbalanced parenthesis
+Index: 117
+Parse error: Unbalanced parenthesis
+Index: 118
+Parse error: Unbalanced parenthesis
+Index: 119
+Parse error: Unbalanced parenthesis
+Index: 120
+Parse error: Unbalanced parenthesis
+Index: 121
+Parse error: Unbalanced parenthesis
+Index: 122
+Parse error: Unbalanced parenthesis
+Index: 123
+Parse error: Unbalanced parenthesis
+Index: 124
+Parse error: Unbalanced parenthesis
+Index: 125
+Parse error: Unbalanced parenthesis
+Index: 126
+Parse error: Unbalanced parenthesis
+Index: 127
+Parse error: Unbalanced parenthesis
+Index: 128
+Parse error: Unbalanced parenthesis
+Index: 129
+Parse error: Unbalanced parenthesis
+Index: 130
+Parse error: Unbalanced parenthesis
+Index: 131
+Parse error: Missing close parenthesis
+Index: 132
+Parse error: Unbalanced parenthesis
+Index: 133
+Parse error: Unbalanced parenthesis
+Index: 134
+Parse error: Unknown token found 'x'
+Index: 135
+Parse error: Unbalanced parenthesis
+Index: 136
+Parse error: Unbalanced parenthesis
+Index: 137
+Parse error: Unbalanced parenthesis
+Index: 138
+Parse error: Unbalanced parenthesis
+Index: 139
+Parse error: Unbalanced parenthesis
+Index: 140
+Parse error: Unbalanced parenthesis
+Index: 141
+Parse error: Unbalanced parenthesis
+Index: 142
+Parse error: Unbalanced parenthesis
+Index: 143
+Parse error: Unbalanced parenthesis
+Index: 144
+Parse error: Unbalanced parenthesis
+Index: 145
+Parse error: Unbalanced parenthesis
+Index: 146
+Parse error: Unbalanced parenthesis
+Index: 147
+Parse error: Unknown token found 'x'
+Index: 148
+Parse error: Unbalanced parenthesis
+Index: 149
+Parse error: Unbalanced parenthesis
+Index: 150
+Parse error: Unbalanced parenthesis
+Index: 151
+Parse error: Unbalanced parenthesis
+Index: 152
+Parse error: Unbalanced parenthesis
+Index: 153
+Parse error: Unbalanced parenthesis
+Index: 154
+Parse error: Unbalanced parenthesis
+Index: 155
+Parse error: Unbalanced parenthesis
+Index: 156
+Parse error: Unbalanced parenthesis
+Index: 157
+Parse error: Unbalanced parenthesis
+Index: 158
+Parse error: Missing close parenthesis
+Index: 159
+Parse error: Unbalanced parenthesis
+Index: 160
+Parse error: Unbalanced parenthesis
+Index: 161
+Parse error: Unknown token found '1.2344'
+Index: 162
+Parse error: Unbalanced parenthesis
+Index: 163
+Parse error: Missing close parenthesis
+Index: 164
+Parse error: Unbalanced parenthesis
+Index: 165
+Parse error: Missing open parenthesis
+Index: 166
+Parse error: Unknown token found '1.2344', 'x'
+Index: 167
+Parse error: Unbalanced parenthesis
+Index: 168
+Parse error: Unbalanced parenthesis
+Index: 169
+Parse error: Unbalanced parenthesis
+Index: 170
+Parse error: Unbalanced parenthesis
+Index: 171
+Parse error: Unbalanced parenthesis
+Index: 172
+Parse error: Unknown token found 'x'
+Index: 173
+Parse error: Unbalanced parenthesis
+Index: 174
+Parse error: Unbalanced parenthesis
+Index: 175
+Parse error: Unbalanced parenthesis
+Index: 176
+Parse error: Unbalanced parenthesis
+Index: 177
+Parse error: Unbalanced parenthesis
+Index: 178
+Parse error: Unknown token found 'y'
+Index: 179
+Parse error: Unknown token found '1.2344'
+Index: 180
+Parse error: Unbalanced parenthesis
+Index: 181
+Parse error: Unbalanced parenthesis
+Index: 182
+Parse error: Unbalanced parenthesis
+Index: 183
+Parse error: Unbalanced parenthesis
+Index: 184
+Parse error: Unbalanced parenthesis
+Index: 185
+Parse error: Unbalanced parenthesis
+Index: 186
+Parse error: Unbalanced parenthesis
+Index: 187
+Parse error: Unbalanced parenthesis
+Index: 188
+Parse error: Unbalanced parenthesis
+Index: 189
+Parse error: Unbalanced parenthesis
+Index: 190
+Parse error: Unbalanced parenthesis
+Index: 191
+Parse error: Unbalanced parenthesis
+Index: 192
+Parse error: Missing open parenthesis
+Index: 193
+Parse error: Unbalanced parenthesis
+Index: 194
+Parse error: Missing close parenthesis
+Index: 195
+Parse error: Missing open parenthesis
+Index: 196
+Parse error: Unbalanced parenthesis
+Index: 197
+Parse error: Unbalanced parenthesis
+Index: 198
+Parse error: Unbalanced parenthesis
+Index: 199
+Parse error: Unbalanced parenthesis
+Index: 200
+Parse error: Missing open parenthesis
+Index: 201
+Parse error: Unbalanced parenthesis
+Index: 202
+Parse error: Unbalanced parenthesis
+Index: 203
+Parse error: Unbalanced parenthesis
+Index: 204
+Parse error: Unbalanced parenthesis
+Index: 205
+Parse error: Unbalanced parenthesis
+Index: 206
+Parse error: Unbalanced parenthesis
+Index: 207
+Parse error: Unbalanced parenthesis
+Index: 208
+Parse error: Unbalanced parenthesis
+Index: 209
+Parse error: Unbalanced parenthesis
+Index: 210
+Parse error: Unbalanced parenthesis
+Index: 211
+Parse error: Unknown token found '1.2344'
+Index: 212
+Parse error: Unbalanced parenthesis
+Index: 213
+Parse error: Unknown token found 'y'
+Index: 214
+Parse error: Unbalanced parenthesis
+Index: 215
+Parse error: Unbalanced parenthesis
+Index: 216
+Parse error: Missing close parenthesis
+Index: 217
+Parse error: Unbalanced parenthesis
+Index: 218
+Parse error: Unbalanced parenthesis
+Index: 219
+Parse error: Unbalanced parenthesis
+Index: 220
+Parse error: Unbalanced parenthesis
+Index: 221
+Parse error: Unbalanced parenthesis
+Index: 222
+Parse error: Unbalanced parenthesis
+Index: 223
+Parse error: Unbalanced parenthesis
+Index: 224
+Parse error: Unbalanced parenthesis
+Index: 225
+Parse error: Unbalanced parenthesis
+Index: 226
+Parse error: Unbalanced parenthesis
+Index: 227
+Parse error: Unbalanced parenthesis
+Index: 228
+Parse error: Unbalanced parenthesis
+Index: 229
+Parse error: Unbalanced parenthesis
+Index: 230
+Parse error: Unbalanced parenthesis
+Index: 231
+Parse error: Unknown token found 'x'
+Index: 232
+Parse error: Unbalanced parenthesis
+Index: 233
+Parse error: Unbalanced parenthesis
+Index: 234
+Parse error: Unbalanced parenthesis
+Index: 235
+Parse error: Unbalanced parenthesis
+Index: 236
+Parse error: Unbalanced parenthesis
+Index: 237
+Parse error: Missing open parenthesis
+Index: 238
+Parse error: Unbalanced parenthesis
+Index: 239
+Parse error: Unbalanced parenthesis
+Index: 240
+Parse error: Unbalanced parenthesis
+Index: 241
+Parse error: Unbalanced parenthesis
+Index: 242
+Parse error: Unbalanced parenthesis
+Index: 243
+Parse error: Missing close parenthesis
+Index: 244
+Parse error: Unbalanced parenthesis
+Index: 245
+Parse error: Unbalanced parenthesis
+Index: 246
+Parse error: Missing close parenthesis
+Index: 247
+Parse error: Unbalanced parenthesis
+Index: 248
+Parse error: Unbalanced parenthesis
+Index: 249
+Parse error: Unbalanced parenthesis
+Index: 250
+Parse error: Unbalanced parenthesis
+Index: 251
+Parse error: Unbalanced parenthesis
+Index: 252
+Parse error: Unbalanced parenthesis
+Index: 253
+Parse error: Unbalanced parenthesis
+Index: 254
+Parse error: Missing open parenthesis
+Index: 255
+Parse error: Unbalanced parenthesis
+Index: 256
+Parse error: Unbalanced parenthesis
+Index: 257
+Parse error: Unbalanced parenthesis
+Index: 258
+Parse error: Unbalanced parenthesis
+Index: 259
+Parse error: Unbalanced parenthesis
+Index: 260
+Parse error: Unbalanced parenthesis
+Index: 261
+Parse error: Missing open parenthesis
+Index: 262
+Parse error: Unbalanced parenthesis
+Index: 263
+Parse error: Unbalanced parenthesis
+Index: 264
+Parse error: Unbalanced parenthesis
+Index: 265
+Parse error: Unbalanced parenthesis
+Index: 266
+Parse error: Unbalanced parenthesis
+Index: 267
+Parse error: Unbalanced parenthesis
+Index: 268
+Parse error: Unbalanced parenthesis
+Index: 269
+Parse error: Unbalanced parenthesis
+Index: 270
+Parse error: Unbalanced parenthesis
+Index: 271
+Parse error: Unbalanced parenthesis
+Index: 272
+Parse error: Missing open parenthesis
+Index: 273
+Parse error: Unbalanced parenthesis
+Index: 274
+Parse error: Unbalanced parenthesis
+Index: 275
+Parse error: Missing close parenthesis
+Index: 276
+Parse error: Unknown token found 'y', '1.2344', 'y'
+Index: 277
+Parse error: Unbalanced parenthesis
+Index: 278
+Parse error: Unbalanced parenthesis
+Index: 279
+Parse error: Unbalanced parenthesis
+Index: 280
+Parse error: Unbalanced parenthesis
+Index: 281
+Parse error: Unbalanced parenthesis
+Index: 282
+Parse error: Unbalanced parenthesis
+Index: 283
+Parse error: Unbalanced parenthesis
+Index: 284
+Parse error: Unbalanced parenthesis
+Index: 285
+Parse error: Unknown token found 'x'
+Index: 286
+Parse error: Unbalanced parenthesis
+Index: 287
+Parse error: Unbalanced parenthesis
+Index: 288
+Parse error: Unbalanced parenthesis
+Index: 289
+Parse error: Unbalanced parenthesis
+Index: 290
+Parse error: Unbalanced parenthesis
+Index: 291
+Parse error: Unknown token found 'x'
+Index: 292
+Parse error: Unbalanced parenthesis
+Index: 293
+Parse error: Unbalanced parenthesis
+Index: 294
+Parse error: Unbalanced parenthesis
+Index: 295
+Parse error: Unbalanced parenthesis
+Index: 296
+Parse error: Unbalanced parenthesis
+Index: 297
+Parse error: Unbalanced parenthesis
+Index: 298
+Parse error: Missing close parenthesis
+Index: 299
+Parse error: Unbalanced parenthesis
+Index: 300
+Parse error: Unbalanced parenthesis
+Index: 301
+Parse error: Missing close parenthesis
+Index: 302
+Parse error: Unbalanced parenthesis
+Index: 303
+Parse error: Missing open parenthesis
+Index: 304
+Parse error: Unbalanced parenthesis
+Index: 305
+Parse error: Unbalanced parenthesis
+Index: 306
+Parse error: Unbalanced parenthesis
+Index: 307
+Parse error: Unbalanced parenthesis
+Index: 308
+Parse error: Unknown token found 'x', 'y', 'y'
+Index: 309
+Parse error: Unbalanced parenthesis
+Index: 310
+Parse error: Unbalanced parenthesis
+Index: 311
+Parse error: Unbalanced parenthesis
+Index: 312
+Parse error: Unbalanced parenthesis
+Index: 313
+Parse error: Unbalanced parenthesis
+Index: 314
+Parse error: Unbalanced parenthesis
+Index: 315
+Parse error: Unbalanced parenthesis
+Index: 316
+Parse error: Unbalanced parenthesis
+Index: 317
+Parse error: Unbalanced parenthesis
+Index: 318
+Parse error: Unbalanced parenthesis
+Index: 319
+Parse error: Unknown token found 'y'
+Index: 320
+Parse error: Unbalanced parenthesis
+Index: 321
+Parse error: Unbalanced parenthesis
+Index: 322
+Parse error: Unbalanced parenthesis
+Index: 323
+Parse error: Unknown token found '1.2344', '1.2344'
+Index: 324
+Parse error: Missing open parenthesis
+Index: 325
+Parse error: Unbalanced parenthesis
+Index: 326
+Parse error: Unbalanced parenthesis
+Index: 327
+Parse error: Unbalanced parenthesis
+Index: 328
+Parse error: Missing open parenthesis
+Index: 329
+Parse error: Missing close parenthesis
+Index: 330
+Parse error: Unbalanced parenthesis
+Index: 331
+Parse error: Unbalanced parenthesis
+Index: 332
+Parse error: Unbalanced parenthesis
+Index: 333
+Parse error: Unbalanced parenthesis
+Index: 334
+Parse error: Unbalanced parenthesis
+Index: 335
+Parse error: Unbalanced parenthesis
+Index: 336
+Parse error: Unbalanced parenthesis
+Index: 337
+Parse error: Unbalanced parenthesis
+Index: 338
+Parse error: Unbalanced parenthesis
+Index: 339
+Parse error: Missing close parenthesis
+Index: 340
+Parse error: Unbalanced parenthesis
+Index: 341
+Parse error: Unbalanced parenthesis
+Index: 342
+Parse error: Unbalanced parenthesis
+Index: 343
+Parse error: Unbalanced parenthesis
+Index: 344
+Parse error: Unbalanced parenthesis
+Index: 345
+Parse error: Unbalanced parenthesis
+Index: 346
+Parse error: Unbalanced parenthesis
+Index: 347
+Parse error: Unbalanced parenthesis
+Index: 348
+Parse error: Unbalanced parenthesis
+Index: 349
+Parse error: Unbalanced parenthesis
+Index: 350
+Parse error: Unbalanced parenthesis
+Index: 351
+Parse error: Unbalanced parenthesis
+Index: 352
+Parse error: Unbalanced parenthesis
+Index: 353
+Parse error: Unbalanced parenthesis
+Index: 354
+Parse error: Unbalanced parenthesis
+Index: 355
+Parse error: Unbalanced parenthesis
+Index: 356
+Parse error: Unbalanced parenthesis
+Index: 357
+Parse error: Unknown token found 'y'
+Index: 358
+Parse error: Unbalanced parenthesis
+Index: 359
+Parse error: Missing close parenthesis
+Index: 360
+Parse error: Unbalanced parenthesis
+Index: 361
+Parse error: Unbalanced parenthesis
+Index: 362
+Parse error: Unbalanced parenthesis
+Index: 363
+Parse error: Unbalanced parenthesis
+Index: 364
+Parse error: Unbalanced parenthesis
+Index: 365
+Parse error: Unbalanced parenthesis
+Index: 366
+Parse error: Unbalanced parenthesis
+Index: 367
+Parse error: Unbalanced parenthesis
+Index: 368
+Parse error: Unbalanced parenthesis
+Index: 369
+Parse error: Missing close parenthesis
+Index: 370
+Parse error: Unbalanced parenthesis
+Index: 371
+Parse error: Unbalanced parenthesis
+Index: 372
+Parse error: Missing open parenthesis
+Index: 373
+Parse error: Unbalanced parenthesis
+Index: 374
+Parse error: Unbalanced parenthesis
+Index: 375
+Parse error: Unbalanced parenthesis
+Index: 376
+Parse error: Unbalanced parenthesis
+Index: 377
+Parse error: Unbalanced parenthesis
+Index: 378
+Parse error: Unbalanced parenthesis
+Index: 379
+Parse error: Unbalanced parenthesis
+Index: 380
+Parse error: Missing close parenthesis
+Index: 381
+Parse error: Unbalanced parenthesis
+Index: 382
+Parse error: Unbalanced parenthesis
+Index: 383
+Parse error: Unbalanced parenthesis
+Index: 384
+Parse error: Unbalanced parenthesis
+Index: 385
+Parse error: Unknown token found 'x'
+Index: 386
+Parse error: Unbalanced parenthesis
+Index: 387
+Parse error: Missing close parenthesis
+Index: 388
+Parse error: Unbalanced parenthesis
+Index: 389
+Parse error: Missing close parenthesis
+Index: 390
+Parse error: Missing close parenthesis
+Index: 391
+Parse error: Unbalanced parenthesis
+Index: 392
+Parse error: Unbalanced parenthesis
+Index: 393
+Parse error: Unbalanced parenthesis
+Index: 394
+Parse error: Unbalanced parenthesis
+Index: 395
+Parse error: Missing open parenthesis
+Index: 396
+Parse error: Unbalanced parenthesis
+Index: 397
+Parse error: Unbalanced parenthesis
+Index: 398
+Parse error: Unbalanced parenthesis
+Index: 399
+Parse error: Unbalanced parenthesis
+Index: 400
+Parse error: Unbalanced parenthesis
+Index: 401
+Parse error: Unbalanced parenthesis
+Index: 402
+Parse error: Missing open parenthesis
+Index: 403
+Parse error: Unbalanced parenthesis
+Index: 404
+Parse error: Unbalanced parenthesis
+Index: 405
+Parse error: Unbalanced parenthesis
+Index: 406
+Parse error: Unbalanced parenthesis
+Index: 407
+Parse error: Missing open parenthesis
+Index: 408
+Parse error: Unbalanced parenthesis
+Index: 409
+Parse error: Unbalanced parenthesis
+Index: 410
+Parse error: Unbalanced parenthesis
+Index: 411
+Parse error: Unbalanced parenthesis
+Index: 412
+Parse error: Unbalanced parenthesis
+Index: 413
+Parse error: Unbalanced parenthesis
+Index: 414
+Parse error: Unbalanced parenthesis
+Index: 415
+Parse error: Unbalanced parenthesis
+Index: 416
+Parse error: Unbalanced parenthesis
+Index: 417
+Parse error: Unbalanced parenthesis
+Index: 418
+Parse error: Unbalanced parenthesis
+Index: 419
+Parse error: Unbalanced parenthesis
+Index: 420
+Parse error: Unbalanced parenthesis
+Index: 421
+Parse error: Unbalanced parenthesis
+Index: 422
+Parse error: Unbalanced parenthesis
+Index: 423
+Parse error: Missing close parenthesis
+Index: 424
+Parse error: Unbalanced parenthesis
+Index: 425
+Parse error: Missing close parenthesis
+Index: 426
+Parse error: Unbalanced parenthesis
+Index: 427
+Parse error: Unbalanced parenthesis
+Index: 428
+Parse error: Unbalanced parenthesis
+Index: 429
+Parse error: Unbalanced parenthesis
+Index: 430
+Parse error: Unbalanced parenthesis
+Index: 431
+Parse error: Unbalanced parenthesis
+Index: 432
+Parse error: Unbalanced parenthesis
+Index: 433
+Parse error: Missing close parenthesis
+Index: 434
+Parse error: Unbalanced parenthesis
+Index: 435
+Parse error: Unbalanced parenthesis
+Index: 436
+Parse error: Unbalanced parenthesis
+Index: 437
+Parse error: Unbalanced parenthesis
+Index: 438
+Parse error: Unbalanced parenthesis
+Index: 439
+Parse error: Unbalanced parenthesis
+Index: 440
+Parse error: Unbalanced parenthesis
+Index: 441
+Parse error: Unbalanced parenthesis
+Index: 442
+Parse error: Missing close parenthesis
+Index: 443
+Parse error: Unbalanced parenthesis
+Index: 444
+Parse error: Unbalanced parenthesis
+Index: 445
+Parse error: Unbalanced parenthesis
+Index: 446
+Parse error: Missing open parenthesis
+Index: 447
+Parse error: Unbalanced parenthesis
+Index: 448
+Parse error: Unbalanced parenthesis
+Index: 449
+Parse error: Missing close parenthesis
+Index: 450
+Parse error: Unbalanced parenthesis
+Index: 451
+Parse error: Missing open parenthesis
+Index: 452
+Parse error: Unbalanced parenthesis
+Index: 453
+Parse error: Unbalanced parenthesis
+Index: 454
+Parse error: Unbalanced parenthesis
+Index: 455
+Parse error: Unbalanced parenthesis
+Index: 456
+Parse error: Missing open parenthesis
+Index: 457
+Parse error: Unbalanced parenthesis
+Index: 458
+Parse error: Unbalanced parenthesis
+Index: 459
+Parse error: Unbalanced parenthesis
+Index: 460
+Parse error: Unbalanced parenthesis
+Index: 461
+Parse error: Missing close parenthesis
+Index: 462
+Parse error: Unbalanced parenthesis
+Index: 463
+Parse error: Unbalanced parenthesis
+Index: 464
+Parse error: Unbalanced parenthesis
+Index: 465
+Parse error: Unbalanced parenthesis
+Index: 466
+Parse error: Unbalanced parenthesis
+Index: 467
+Parse error: Unbalanced parenthesis
+Index: 468
+Parse error: Unbalanced parenthesis
+Index: 469
+Parse error: Unbalanced parenthesis
+Index: 470
+Parse error: Unbalanced parenthesis
+Index: 471
+Parse error: Unbalanced parenthesis
+Index: 472
+Parse error: Unbalanced parenthesis
+Index: 473
+Parse error: Missing open parenthesis
+Index: 474
+Parse error: Unbalanced parenthesis
+Index: 475
+Parse error: Unbalanced parenthesis
+Index: 476
+Parse error: Missing close parenthesis
+Index: 477
+Parse error: Unbalanced parenthesis
+Index: 478
+Parse error: Unbalanced parenthesis
+Index: 479
+Parse error: Unbalanced parenthesis
+Index: 480
+Parse error: Missing open parenthesis
+Index: 481
+Parse error: Unbalanced parenthesis
+Index: 482
+Parse error: Missing open parenthesis
+Index: 483
+Parse error: Unbalanced parenthesis
+Index: 484
+Parse error: Unbalanced parenthesis
+Index: 485
+Parse error: Unknown token found '1.2344'
+Index: 486
+Parse error: Unbalanced parenthesis
+Index: 487
+Parse error: Unbalanced parenthesis
+Index: 488
+Parse error: Missing open parenthesis
+Index: 489
+Parse error: Unbalanced parenthesis
+Index: 490
+Parse error: Unbalanced parenthesis
+Index: 491
+Parse error: Unbalanced parenthesis
+Index: 492
+Parse error: Unbalanced parenthesis
+Index: 493
+Parse error: Unbalanced parenthesis
+Index: 494
+Parse error: Unbalanced parenthesis
+Index: 495
+Parse error: Unbalanced parenthesis
+Index: 496
+Parse error: Unbalanced parenthesis
+Index: 497
+Parse error: Unbalanced parenthesis
+Index: 498
+Parse error: Unknown token found 'x'
+Index: 499
+Parse error: Unbalanced parenthesis
+Index: 500
+Parse error: Unbalanced parenthesis
+Index: 501
+Parse error: Unknown token found '1.2344', '1.2344'
+Index: 502
+Parse error: Unbalanced parenthesis
+Index: 503
+Parse error: Unbalanced parenthesis
+Index: 504
+Parse error: Unbalanced parenthesis
+Index: 505
+Parse error: Missing close parenthesis
+Index: 506
+Parse error: Unbalanced parenthesis
+Index: 507
+Parse error: Unbalanced parenthesis
+Index: 508
+Parse error: Unbalanced parenthesis
+Index: 509
+Parse error: Unbalanced parenthesis
+Index: 510
+Parse error: Unbalanced parenthesis
+Index: 511
+Parse error: Unbalanced parenthesis
+Index: 512
+Parse error: Unbalanced parenthesis
+Index: 513
+Parse error: Unbalanced parenthesis
+Index: 514
+Parse error: Unbalanced parenthesis
+Index: 515
+Parse error: Unbalanced parenthesis
+Index: 516
+Parse error: Unbalanced parenthesis
+Index: 517
+Parse error: Missing open parenthesis
+Index: 518
+Parse error: Missing close parenthesis
+Index: 519
+Parse error: Unbalanced parenthesis
+Index: 520
+Parse error: Unbalanced parenthesis
+Index: 521
+Parse error: Unbalanced parenthesis
+Index: 522
+Parse error: Missing open parenthesis
+Index: 523
+Parse error: Unbalanced parenthesis
+Index: 524
+Parse error: Unbalanced parenthesis
+Index: 525
+Parse error: Unbalanced parenthesis
+Index: 526
+Parse error: Unbalanced parenthesis
+Index: 527
+Parse error: Unbalanced parenthesis
+Index: 528
+Parse error: Unbalanced parenthesis
+Index: 529
+Parse error: Unbalanced parenthesis
+Index: 530
+Parse error: Unbalanced parenthesis
+Index: 531
+Parse error: Missing close parenthesis
+Index: 532
+Parse error: Unbalanced parenthesis
+Index: 533
+Parse error: Unbalanced parenthesis
+Index: 534
+Parse error: Unbalanced parenthesis
+Index: 535
+Parse error: Unknown token found 'x'
+Index: 536
+Parse error: Unbalanced parenthesis
+Index: 537
+Parse error: Unbalanced parenthesis
+Index: 538
+Parse error: Missing close parenthesis
+Index: 539
+Parse error: Unbalanced parenthesis
+Index: 540
+Parse error: Unbalanced parenthesis
+Index: 541
+Parse error: Missing close parenthesis
+Index: 542
+Parse error: Unbalanced parenthesis
+Index: 543
+Parse error: Unbalanced parenthesis
+Index: 544
+Parse error: Unbalanced parenthesis
+Index: 545
+Parse error: Unbalanced parenthesis
+Index: 546
+Parse error: Unbalanced parenthesis
+Index: 547
+Parse error: Unbalanced parenthesis
+Index: 548
+Parse error: Unbalanced parenthesis
+Index: 549
+Parse error: Unbalanced parenthesis
+Index: 550
+Parse error: Unbalanced parenthesis
+Index: 551
+Parse error: Unbalanced parenthesis
+Index: 552
+Parse error: Unbalanced parenthesis
+Index: 553
+Parse error: Unbalanced parenthesis
+Index: 554
+Parse error: Unknown token found 'y'
+Index: 555
+Parse error: Unbalanced parenthesis
+Index: 556
+Parse error: Unbalanced parenthesis
+Index: 557
+Parse error: Unbalanced parenthesis
+Index: 558
+Parse error: Unbalanced parenthesis
+Index: 559
+Parse error: Unbalanced parenthesis
+Index: 560
+Parse error: Unbalanced parenthesis
+Index: 561
+Parse error: Unbalanced parenthesis
+Index: 562
+Parse error: Unbalanced parenthesis
+Index: 563
+Parse error: Unbalanced parenthesis
+Index: 564
+Parse error: Unbalanced parenthesis
+Index: 565
+Parse error: Unbalanced parenthesis
+Index: 566
+Parse error: Unbalanced parenthesis
+Index: 567
+Parse error: Unbalanced parenthesis
+Index: 568
+Parse error: Unbalanced parenthesis
+Index: 569
+Parse error: Unbalanced parenthesis
+Index: 570
+Parse error: Unbalanced parenthesis
+Index: 571
+Parse error: Unbalanced parenthesis
+Index: 572
+Parse error: Unbalanced parenthesis
+Index: 573
+Parse error: Unbalanced parenthesis
+Index: 574
+Parse error: Unbalanced parenthesis
+Index: 575
+Parse error: Unknown token found 'y'
+Index: 576
+Parse error: Unbalanced parenthesis
