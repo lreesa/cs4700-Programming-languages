@@ -2,9 +2,9 @@ from random import random, randint
 #from newCode import createParseTree, evaluate
 
 import os
-PATH = "C:/Users/nickf/Dropbox/Classes/CS4700 Spring 2020/lisp interpreter/data/"
-if not os.path.exists(PATH):
-    os.makedirs(PATH)
+# PATH = "C:/Users/nickf/Dropbox/Classes/CS4700 Spring 2020/lisp interpreter/data/"
+# if not os.path.exists(PATH):
+#     os.makedirs(PATH)
     
 # define all the possible operators and how many arguments they take
 # for extended language
@@ -174,12 +174,14 @@ def prettyPrint(tokenList, depth = 0):
     # atom, just print at depth and return
     if isinstance(token, int):
         print("%s%d" % (' ' * depth, token))
+    if isinstance(token, bool):
+        print("%s%s" % (' ' * depth, token))
     else:
         # compound expression
         operator = tokenList.pop(0)
         print("%s(%s" % (' ' * depth, operator))
-        prettyPrint(tokenList, depth+1)
-        prettyPrint(tokenList, depth+1)
+        for i in range(NumberOfArguments[operator]):
+            prettyPrint(tokenList, depth+1)
         tokenList.pop(0) # remove )
         print("%s)" % (' ' * depth,))
         
@@ -211,8 +213,8 @@ def legalToken(token):
             
 
 # Do some testing
-for _ in range(0,15):
-    print(generateRandomProgram(3))
+# for _ in range(0,15):
+#     print(generateRandomProgram(3))
 # TEST BAD
 # for _ in range(100): 
 #     exp = generateBadRandomExpression(5)
