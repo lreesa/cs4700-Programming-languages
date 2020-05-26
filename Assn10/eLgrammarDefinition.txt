@@ -1,0 +1,39 @@
+<program> ::= ' | <statement> <program> 
+
+<statement> ::= <expression> | <assignment> | <functionDefinition>
+
+<assignment> ::= (set <variable> <expression>)
+
+<expression> ::= <builtInExpression> | <userFunctionCall> 
+
+<expressionList> ::= ' | <expression> <expressionList>
+
+<functionDefinition> ::= (def <variable> (<parameterList>) <body>)
+
+<userFunctionCall> ::= (<variable> <expressionList>)
+
+<parameterList> ::= ' | <variable> <parameterList>
+
+<body> ::= ' | <statement> <body>
+
+<builtInExpression> ::= <variable> | <numericalExpression> | <booleanExpression> | <controlExpression> | <dataExpression>
+
+<controlExpression> ::= (if <expression> <expression> <expression>) | (quote <statement>) | (evaleL <statement>)
+
+<dataExpression> ::= (cons <list> <list> ) | (first <list>) | (rest <list>)
+
+<list> ::= <atom> | ( <listSequence> )
+
+<listSequence> ::= ' | <list> <listSequence>
+
+<atom> := <number> | <variable> | True | False
+
+<numericalExpression> ::= <number> | (+ <expression> <expression>) |(- <expression> <expression>) |(* <expression> <expression>) | (/ <expression> <expression>) | (+ <expression> <expression>) 
+
+<booleanExpression> ::= True | False | (and <expression> <expression>) |(or <expression> <expression>) |(not <expression>) 
+
+# <variable> ::= <alphaCharacter> | <alphaCharacter> <variable>
+# <alphaCharacter> ::= a 
+# 
+# <number> ::= <digit> | <digit> <number>
+# <digit> ::= 1
